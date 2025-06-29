@@ -5,3 +5,5 @@ Utilizada a API do BCE, documentação disponível em:
 https://data.ecb.europa.eu/help/api/overview
 <a href="https://data.ecb.europa.eu/help/api/overview">Documentação API BCE</a>
 
+[Documentação API BCE](https://data.ecb.europa.eu/help/api/overview)
+
