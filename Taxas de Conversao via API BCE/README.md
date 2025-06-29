@@ -3,5 +3,4 @@
 Utilizada a API do BCE, documentação disponível em:
 
 [Documentação API BCE](https://data.ecb.europa.eu/help/api/overview)
-https://data.ecb.europa.eu/help/api/overview
 
