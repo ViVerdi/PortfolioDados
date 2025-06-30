@@ -1,27 +1,35 @@
-<h1>Sobre o projeto</h1>
+# Sobre o projeto
 
-Design realizado com Figma e ETL feito diretamente no Power BI utlizando a API do Banco Central Europeu para atualizar os dados.
+
+Design realizado com Figma e ETL feito diretamente no Power BI utlizando a API do Banco Central Europeu para atualizar os dados.  
 Habilidades desenvolvidas: APIs / Figma / PowerBI
 
-![Dashboard de Exemplo](https://raw.githubusercontent.com/ViVerdi/PortfolioDados/14d71a0d22b569d5d1124eb8eeb0d5cb9641e445/Taxas%20de%20Conversao%20via%20API%20BCE/Dashboard%20Sample.png)
+
+![Dashboard Sample](https://raw.githubusercontent.com/ViVerdi/PortfolioDados/14d71a0d22b569d5d1124eb8eeb0d5cb9641e445/Taxas%20de%20Conversao%20via%20API%20BCE/Dashboard%20Sample.png)
 
 
-<br>
+## API
 
-<h2>API</h2>
-Utilizada a API do BCE, documentação disponível em:<br>
-[Documentação API BCE](https://data.ecb.europa.eu/help/api/overview)  <br>
+
+Utilizada a API do BCE, documentação disponível em:
+[Documentação API BCE](https://data.ecb.europa.eu/help/api/overview)  
 https://data.ecb.europa.eu/help/api/overview
 
-<br><br>
 
-<h2>FIGMA</h2>
-Utilizado o FIGMA para execução do Layout-Base<br>
-![image](https://github.com/user-attachments/assets/77752ff3-0774-4253-9439-a77b3fa232e4)
+## FIGMA
 
-<br><br>
 
-<h2>Power BI</h2>
-Utilizado o Power BI para comunicação e tratamento dos dados da API.<br>
-Poderia ser utilizada a conexão ODBC, porém a fim de simplificação da consulta a fonte foi consultada diretamente via Web.Contents<br>
-![image](https://github.com/user-attachments/assets/4194f04b-24f0-428d-8869-b5ae273d01c9)
+Utilizado o FIGMA para execução do Layout-Base  
+
+
+![Layout da interface no Figma](assets/figma_layout.png)
+
+
+## Power BI  
+
+
+Utilizado o Power BI para comunicação e tratamento dos dados da API.  
+Poderia ser utilizada a conexão ODBC, porém a fim de simplificação da consulta a fonte foi consultada diretamente via Web.Contents  
+
+
+![Layout Power BI](assets/powerBI_layout.png)
