@@ -16,7 +16,7 @@ https://data.ecb.europa.eu/help/api/overview
 <br><br>
 
 <h2>FIGMA</h2>
-Utilizado o FIGMA para execução do Layou-Base<br>
+Utilizado o FIGMA para execução do Layout-Base<br>
 ![image](https://github.com/user-attachments/assets/77752ff3-0774-4253-9439-a77b3fa232e4)
 
 <br><br>
