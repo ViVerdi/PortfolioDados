@@ -5,8 +5,6 @@ Design realizado com Figma, e ETL construído diretamente no Power BI de forma s
 Habilidades desenvolvidas: APIs / Figma / PowerBI
 
 
-![Dashboard Sample](https://raw.githubusercontent.com/ViVerdi/PortfolioDados/14d71a0d22b569d5d1124eb8eeb0d5cb9641e445/Taxas%20de%20Conversao%20via%20API%20BCE/Dashboard%20Sample.png)
-
 ![Dashboard Sample](assets/dashboard_sample.png)
 
 
