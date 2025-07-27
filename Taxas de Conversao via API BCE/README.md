@@ -1,7 +1,7 @@
 # Sobre o projeto
 
 
-Design realizado com Figma e ETL feito diretamente no Power BI utlizando a API do Banco Central Europeu para atualizar os dados.  
+Design realizado com Figma, e ETL construído diretamente no Power BI de forma simplificada, utlizando a API do Banco Central Europeu para atualizar os dados.  
 Habilidades desenvolvidas: APIs / Figma / PowerBI
 
 
